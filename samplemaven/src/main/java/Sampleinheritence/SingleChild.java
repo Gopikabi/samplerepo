@@ -1,3 +1,4 @@
+
 package Sampleinheritence;
 
 public class SingleChild extends SingleInheritence {
